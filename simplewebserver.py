@@ -8,8 +8,8 @@ import argparse
 import re
 import cgi
 
-# To create the server you should use: python simpleAPIserver.py port ip
-# for example: python simpleAPIserver.py 8080 127.0.0.1 
+# To create the server you should use: python simplewebserver.py port ip
+# for example: python simplewebserver.py 8080 127.0.0.1 
 
 # With the POST intructions you store JSON data in the server.
 # POST record example using curl:
